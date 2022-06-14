@@ -4,7 +4,7 @@ module.exports = {
   ],
   devServer: {
     allowedHosts: [
-      '8080-msaschool-dddpetstorefr-b3xukg0ys2b.ws-us41.gitpod.io',  // Replace with your proxy url
+      '8080-myungjaehun-dddpetstore-hhwk23bk9f0.ws-us47.gitpod.io',  // Replace with your proxy url
     ],
   },
 }
